@@ -2,6 +2,9 @@
 
 This is a simple movie search website that allows users to search for movies and view their details. It uses the OMDB API to fetch movie data and display it on the webpage.
 
+## Project team
+- [@Uday-555](https://github.com/Uday-555)
+
 ## Features
 
 - Search for movies by title
